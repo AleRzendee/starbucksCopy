@@ -1,5 +1,7 @@
 # Starbucks Coffee Company
 
+<div>- Projeto Final do curso de HTML/CSS da Coderhouse.</div>
+
 <br>
 <br>
 
