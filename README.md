@@ -38,10 +38,13 @@
  ## 🚀 Deploy
  
 Usei a própria ferramenta de deploy do GitHub,<a href= "https://alerzendee.github.io/starbucksCopy/" target="_blank"> Clique Aqui </a> para ver o projeto
- 
- ## 🤝 Feedbacks
- 
- Qualquer feedback ou sugestão será muito bem-vindo, seja em relação ao formato, conteúdo ou linguagem utilizada. 
+<br>
+
+ ## 📞 Contato e 🤝 Feedbacks
+
+Para dúvidas ou sugestões, entre em contato
+<br>
+<a href="https://wa.me/5512988848421">WhatsApp</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/gustavo-rezende-5a838133b/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.instagram.com/rzendeee">Instagram</a>
  <br>
  Email: devgustavorezende@outlook.com
- 
+
